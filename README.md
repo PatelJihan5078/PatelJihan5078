@@ -371,10 +371,9 @@ No Cisco certification currently listed.
 
 <div align="center">
 
-<img src="https://github-contribution-graph.ez4o.com/PatelJihan5078?theme=purple" width="100%" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/PatelJihan5078/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub Contribution Snake"/>
 
 </div>
-
 ---
 
 # Current Focus
