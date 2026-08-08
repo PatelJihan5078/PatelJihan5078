@@ -365,9 +365,13 @@ No Cisco certification currently listed.
 
 # Contribution Snake
 
+---
+
+# Contribution Snake
+
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PatelJihan5078/PatelJihan5078/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+<img src="https://github-contribution-graph.ez4o.com/PatelJihan5078?theme=purple" width="100%" alt="GitHub Contribution Snake"/>
 
 </div>
 
